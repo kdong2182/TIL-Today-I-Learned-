@@ -7,6 +7,7 @@
 [DailyAlgo](https://learn.dailyalgo.kr/courses/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EB%AC%B4%ED%98%95-ai%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EA%B3%BC%EC%A0%95-2%EA%B8%B0)
 
 
+
 ## 2025년 12월 15일 ~ 12월 16일
 ### 데이터로 일하는 방식
 > 문제정의가 가장 중요하다
